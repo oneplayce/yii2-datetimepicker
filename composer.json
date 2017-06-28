@@ -1,0 +1,27 @@
+{
+    "name": "kirjuha1982/yii2-datetimepicker",
+    "description": "Yii2 datetimepicker",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Vladimir Korovin",
+            "email": "rolan1986@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "kirjuha1982\\datetimepicker\\": ""
+        }
+    },
+	"extra": {
+		"asset-installer-paths": {
+			"npm-asset-library": "vendor/npm",
+			"bower-asset-library": "vendor/bower"
+		}
+	}
+}
