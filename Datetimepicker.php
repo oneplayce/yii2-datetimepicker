@@ -2,14 +2,9 @@
 
 /**
  * Yii2 DateTimePicker
- * 
- * @link https://github.com/vakorovin/yii2-datetimepicker
- * @license https://github.com/vakorovin/yii2-datetimepicker/blob/master/LICENSE MIT
- * @author Vladimir Korovin <rolan1986@gmail.com>
- * @see http://xdsoft.net/jqplugins/datetimepicker
  */
 
-namespace kirjuha1982\datetimepicker;
+namespace oneplayce\datetimepicker;
 
 use yii\helpers\Html;
 use yii\web\View;
