@@ -13,6 +13,6 @@ echo $form->field($model, 'created')->widget(Datetimepicker::className(),[
 ]);
 ```
 
-### Available Settings of DateTimePicker: 
+### Available `options` of DateTimePicker: 
 
 http://xdsoft.net/jqplugins/datetimepicker
